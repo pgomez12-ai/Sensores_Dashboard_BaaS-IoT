@@ -1,6 +1,6 @@
 # Sensores Milesight IoT
  
-Fotos de los Sensores Milesight IoT de las series a usar.
+Fotos de los Sensores Milesight IoT de las series a usar y codigos para ajustar la proporcion de las mismas.
  
 # Series
  

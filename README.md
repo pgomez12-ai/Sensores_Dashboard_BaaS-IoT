@@ -2,11 +2,11 @@
  
 Fotos de los Sensores IoT de los productos y series a usar con codigos para ajustar la proporcion de las mismas.
  
-# Milesight
+## Milesight
 - GS301
 - VS121
 - WS201
 - WS101
 
-# Griferia Lavamanos
+## Griferia Lavamanos
 - Sfera Grival

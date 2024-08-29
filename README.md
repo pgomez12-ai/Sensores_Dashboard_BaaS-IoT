@@ -10,6 +10,7 @@ Fotos de los Sensores IoT de los productos y series a usar con codigos para ajus
 
 ## Griferia Lavamanos
 - Sfera Grival
+- Liquid Grival
 
 ## Casa Corona
 - IoT Casa Corona

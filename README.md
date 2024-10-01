@@ -12,5 +12,7 @@ Fotos de los Sensores IoT de los productos y series a usar con codigos para ajus
 - Sfera Grival
 - Liquid Grival
 
+## Orinales
+
 ## Casa Corona
 - IoT Casa Corona
